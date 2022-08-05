@@ -1,0 +1,2 @@
+Ceci est un fichier à crypter.
+Fin de fichier.
